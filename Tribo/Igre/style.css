@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: gray;
+}
+.centriraj{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    
+}
+#igrac{
+    border: 1px solid black;
+}

@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #198754;
+}
+.upute{
+    margin-top: 5vh;
+    width: 40vw;
+    height: 90vh;
+    background-color:  #343a40;
+    color: white;
+    margin-left: 30vw;
+    overflow: scroll;
+}
+h1, p{
+    padding: 5px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    color: red;
+}
+li{
+    margin-top: 1vh;
+    font-size: 2vw;
+}

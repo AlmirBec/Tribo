@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #198754;
+}
+
+a{
+    text-decoration: none;
+}
+img{
+    height: 40vh;
+    width: 20vw;
+}
+caption{
+    caption-side: bottom;
+}
+.centriraj{
+    margin-top: 25vh;
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: black;
+    font-size: 1.5vw;
+}
+.nazad{
+    color: blue;
+    padding: 5px;
+}
